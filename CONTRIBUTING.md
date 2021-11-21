@@ -115,6 +115,7 @@ Once you have installed the dependencies, run the server as follows:
 ```py
 python manage.py runserver
 ```
+Run unit tests 
 
 ### Register initial user (optional)
 Once CiviWiki is running, visit the front page (probably something like http://localhost:8000). Once there, click 'log in/register', and then 'register new user'.
