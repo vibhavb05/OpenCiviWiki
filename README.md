@@ -151,6 +151,4 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
-# Testing
 
-See our [Testing Guide](docs/contributing/testing.md) for instructions on how to test code.
